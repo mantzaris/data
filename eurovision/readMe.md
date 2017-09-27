@@ -1,0 +1,1 @@
+Data of the votes for the finals in the Eurovision Song Contest (ESC). This data was used in the work for JASSS (Journal of Artificial Societies and Social Simulation), 'Examining collusion and voting biases between countries during the Eurovision song contest since 1957' Alexander V. Mantzaris, Samuel R. Rein, Alexander D. Hopkins.
